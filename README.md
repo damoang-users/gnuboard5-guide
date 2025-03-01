@@ -5,7 +5,7 @@
 Markdown 포맷으로 작성한 문서는 [VitePress](https://vitepress.dev)를 통해 아래와 같이 완성된 사이트 형태로 만들어 집니다.
 Markdown 문법은 https://vitepress.dev/guide/markdown 페이지에서 확인할 수 있습니다.
 
-그누보드5 가이드: https://g5guide.github.io
+그누보드5 가이드: [https://damoang-users.github.io/gnuboard5-guide/](https://damoang-users.github.io/gnuboard5-guide/)
 
 그누보드, 영카트의 사용자 매뉴얼과 개발자를 위한 가이드를 포함할 예정이지만 문서화 작업 참여에 따라 전체 문서가 완성되지 않을 수 있습니다.
 
