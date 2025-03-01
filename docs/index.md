@@ -1,15 +1,15 @@
 ---
 title: 그누보드5 가이드
-description: 개발사가 안 만들어서 사용자가 직접 만드는 그누보드 안내서
+description: 그누보드5 비공식 가이드 문서
 layout: home
 hero:
   name: GNUBOARD 5 Guide
   text: 그누보드5 가이드
-  tagline: 개발사가 안 만들어서 사용자가 직접 만드는 그누보드 안내서
-  # actions:
-  #   - theme: brand
-  #     text: 📝 문서화 참여하기
-  #     link: https://github.com/g5-docs/docs/discussions/1
+  tagline: "그누보드5 비공식 가이드.<br><small>Powered by Damoang Users.</small>"
+  actions:
+    - theme: alt
+      text: 📝 문서화 참여하기
+      link: https://github.com/damoang-users/g5-guide
 features:
   - title: 그누보드
     icon: 😀

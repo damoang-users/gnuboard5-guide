@@ -15,7 +15,7 @@ export default {
     enhanceApp({ app, router, siteData }) {
         enhanceAppWithTabs(app);
         googleAnalytics({
-            id: 'G-GNLLQFYG4H', // Replace with your GoogleAnalytics ID, which should start with the 'G-'
+            id: 'G-6K8MH4RD6M', // Replace with your GoogleAnalytics ID, which should start with the 'G-'
         })
     },
     Layout() {
@@ -29,16 +29,14 @@ export default {
 
         // Obtain configuration from: https://giscus.app/
         giscusTalk({
-            repo: 'g5guide/g5guide.github.io',
-            repoId: 'R_kgDOJ55vGA',
-            category: 'Comments', // default: `General`
-            categoryId: 'DIC_kwDOJ55vGM4CX0n5',
-            mapping: 'pathname', // default: `pathname`
-            inputPosition: 'top', // default: `top`
-            lang: 'ko', // default: `zh-CN`
-            lightTheme: 'light', // default: `light`
-            darkTheme: 'transparent_dark', // default: `transparent_dark`
-            // ...
+            repo: 'damoang-users/gnubaord5-guide',
+            repoId: 'R_kgDOOBll-Q',
+            category: 'General',
+            categoryId: 'DIC_kwDOOBll-c4CndoA',
+            mapping: 'pathname',
+            inputPosition: 'top',
+            lang: 'ko',
+            theme: 'transparent_dark',
         }, {
             frontmatter, route
         },

@@ -36,7 +36,7 @@ export default deepmerge(mergeConfig, defineConfig({
     lang: 'ko-KR',
     titleTemplate: ':title - 그누보드5 가이드',
     description: '사용자가 직접 만드는 그누보드 안내서 ',
-    base: '/',
+    base: '/gnuboard5-guide/',
     lastUpdated: true,
     themeConfig: {
         siteTitle: '그누보드5 가이드',
@@ -201,7 +201,7 @@ export default deepmerge(mergeConfig, defineConfig({
             { text: '개발자 가이드', link: '/developers/lifecycle' },
         ],
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/g5guide/g5guide.github.io' },
+            { icon: 'github', link: 'https://github.com/damoang-users/gnuboard5-guide' },
         ],
         search: {
             provider: 'local'
@@ -217,7 +217,7 @@ export default deepmerge(mergeConfig, defineConfig({
         externalLinkIcon: true,
 
         editLink: {
-            pattern: 'https://github.com/g5guide/g5guide.github.io/edit/main/docs/:path',
+            pattern: 'https://github.com/damoang-users/gnuboard5-guide/edit/main/docs/:path',
             text: '이 페이지 수정하기'
         },
         docFooter: {
@@ -229,7 +229,7 @@ export default deepmerge(mergeConfig, defineConfig({
         },
     },
     sitemap: {
-        hostname: 'https://g5guide.github.io/',
+        hostname: 'https://damoang-users.github.io/gnuboard5-guide/',
     },
     transformHtml: (_, id, { pageData }) => {
         if (!/[\\/]404\.html$/.test(id))

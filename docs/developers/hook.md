@@ -78,7 +78,7 @@ function my_saving_process($data, $user_id) {
 
 `run_event('my_before_saving', $context);`는 결국 아래 
 
-```수도코드
+```
 my_before_saving($context);
 ```
 
@@ -98,7 +98,7 @@ function your_func($your_context) {
 ```
 이것은 아래와 같은 의미로 생각하면된다.
 
-```수도코드
+```
 $my_before_saving += your_func;
 ```
 
