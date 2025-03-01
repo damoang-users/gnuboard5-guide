@@ -1,9 +1,3 @@
----
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/developers/cache.html
----
 # 캐시 (Cache)
 
 TBD

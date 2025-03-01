@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/point.html
 description: 그누보드 포인트 기능의 설명
 ---
 

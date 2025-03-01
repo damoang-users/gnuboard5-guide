@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/make/skin/outlogin.html
 description: 아웃로그인 위젯은 그누보드의 회원 로그인 상태에 따라 로그인 폼과 회원의 간략한 정보를 표시한다.
 ---
 

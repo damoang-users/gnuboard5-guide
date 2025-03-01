@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/make/theme/widget.html
 description: 그누보드에서 메뉴 관리를 통해 만든 메뉴를 출력하거나 게시판의 최근게시물 등을 출력하는 위젯 기능을 제공한다.
 ---
 

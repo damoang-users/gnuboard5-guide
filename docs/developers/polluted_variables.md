@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/developers/polluted_variables.html
 description: 그누보드는 요청받은 데이터를 전역변수로 풀어놓는 `extract()` 함수를 사용하고 있어 전역변수가 오염되는 문제가 있다. 오염된 전역변수는 동작에 영향을 주기도하며, 보안취약점으로 이어질 수 있으므로 전역변수 사용에 항상 주의해야 한다.
 ---
 

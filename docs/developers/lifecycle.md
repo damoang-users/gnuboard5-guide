@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/developers/lifecycle.html
 description: 그누보드는 통일된 Request 처리를 지원하지 않으며 분산된 Endpoint를 사용한다. 요청에 따라 각자의 요청을 처리하고 대부분은 HTML로 응답한다. 대부분의 요청에 같은 초기화 로직이 실행되고 기능 확장을 위한 파일을 로드하므로 대부분의 요청에서 기능 확장을 적용할 수 있다.
 ---
 

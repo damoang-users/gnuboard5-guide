@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/theme-and-skin.html
 description: 그누보드 테마와 스킨 기능과 설정 안내 가이드
 ---
 

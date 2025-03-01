@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/install.html
 description: 그누보드5 설치를 위한 환경 및 설치 방법
 ---
 

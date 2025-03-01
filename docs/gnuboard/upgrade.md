@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/upgrade.html
 description: 그누보드를 업그레이드할 때 주의할 점과 권장하는 업그레이드 과정을 설명한다.
 ---
 

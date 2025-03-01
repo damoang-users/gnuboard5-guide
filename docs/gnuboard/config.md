@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/config.html
 description: 그누보드 설치 후 초기 설정 및 관리페이지 주소 변경, 영카트 제거, 사이트 기본 설정, 짧은 주소, 게시판 설정 등 주요 설정.
 ---
 

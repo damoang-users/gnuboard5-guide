@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/make/theme/config.html
 description: theme.config.php 파일에는 그누보드의 테마 설정 정보를 담고 있다.
 ---
 

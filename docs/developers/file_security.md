@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/developers/file_security.html
 description: 그누보드의 모든 파일이 웹에서 접근이 가능한 상태로 설치하여 사용된다. 그누보드 배포본에 포함된 모든 파일과 설치 및 실행 시 생성되는 모든 파일에도 접근할 수 있으며 이는 보안취약점으로 악용되거나 정보가 유출될 수 있으니 주의해야 한다.
 ---
 

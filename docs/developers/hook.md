@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/developers/hook.html
 description: 그누보드 hook 사용법
 ---
 # Hook

@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/menu.html
 description: 그누보드 메뉴 관리 기능의 설명
 ---
 

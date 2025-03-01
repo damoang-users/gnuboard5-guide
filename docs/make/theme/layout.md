@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/make/theme/layout.html
 description: 레이아웃은 그누보드 테마의 필수 요소이며, 웹사이트의 전체적인 구조를 결정한다. PC와 모바일 레이아웃을 포함할 수 있으며 반응형으로 구성할 수도 있다.
 ---
 

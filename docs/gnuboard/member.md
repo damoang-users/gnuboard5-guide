@@ -1,8 +1,4 @@
 ---
-head:
-  - - link
-    - name: canonical
-      content: https://g5guide.github.io/gnuboard/member.html
 description: 그누보드 회원의 레벨과 권한, 관리자의 권한에 대한 설명
 ---
 
